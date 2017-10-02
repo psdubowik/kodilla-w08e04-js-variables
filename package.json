@@ -1,0 +1,24 @@
+{
+  "name": "kodillaFE_week08ex04_js_variables",
+  "version": "1.0.0",
+  "description": "Variables and data types in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w08e04-js-variables.git"
+  },
+  "keywords": [
+    "js",
+    "variables",
+    "data types"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w08e04-js-variables/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w08e04-js-variables#readme"
+}
